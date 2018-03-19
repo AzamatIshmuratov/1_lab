@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1521116534 source:c:\users\777\desktop\Структуры и алгоритмы обработки данных\1_lab\main.cpp
+	<ctime>
+	<iostream>
+	<windows.h>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<time.h>
+
+1521489918 source:c:\users\777\desktop\saod\1_lab\main.cpp
+	<ctime>
+	<iostream>
+	<windows.h>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<time.h>
+
